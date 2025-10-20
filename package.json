@@ -1,0 +1,1 @@
+{ "type": "module", "dependencies": { "@zip.js/zip.js": "^2.7.45", "fast-glob": "^3.3.2", "fs-extra": "^11.2.0", "sharp": "^0.33.2", "slugify": "^1.6.6" } }
